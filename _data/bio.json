@@ -6,7 +6,7 @@
     "email": "m.naeem66622@outlook.com",
     "phone": "+92-347-7921060",
     "website": "https://m-naeem66622.github.io",
-    "summary": "Hey! I'm Computer Science student. Breaking Keyboard instead of Girls's hearts. Started relationship with 'Bugs' at the age of 10. I will start studying soon for a B.S. in Computer Science in the Department of Information Technology and Computer Sciences.",
+    "summary": "Hey! I'm Computer Science student. Breaking Keyboard instead of Girl's Heart ❤. Started relationship with 'Bugs' at the age of 10. I will start studying soon for a B.S. in Computer Science in the Department of Information Technology and Computer Sciences.",
     "location": { "address": "Near Post Office, Village Jallhan", "postalCode": "96822", "city": "District Gujranwala", "countryCode": "PAK", "region": "Punjab, Pakistan" },
     "profiles": [
       { "network": "github", "username": "m-naeem66622", "url": "http://github.com/m-naeem66622" },
@@ -35,8 +35,8 @@
   "education": [
     {
       "institution": "Pakistan International Al-Khobar",
-      "area": "Al-Khobar, Saudi Arabia",
-      "studyType": "Middle (Playgroup - 8th)",
+      "area": "Pre-school to 8th",
+      "studyType": "Middle",
       "startDate": "2008",
       "endDate": "2016",
       "courses": [
@@ -44,20 +44,20 @@
     },
     {
       "institution": "Allied Schools Hafizabad Campus",
-      "area": "Sarghoda Road Near District Complex, Hafizabad, Pakistan",
-      "studyType": "Matriculation (9th - 10th)",
+      "area": "Matriculation (9 - 10)",
+      "studyType": "Matric",
       "startDate": "2018",
       "endDate": "2020",
-      "courses": [ "Basics of Computer Science"
+      "courses": [
       ]
     },
     {
       "institution": "Punjab Group of Colleges Hafizabad",
-      "area": "55-Gulshan-e-Sultan, Gujranwala Road Hafizabad, Pakistan",
-      "studyType": "Intermediate (11th - 12th)",
+      "area": "Intermediate in Computer Science (11 to 12)",
+      "studyType": "I.C.S",
       "startDate": "2021",
       "endDate": "2022",
-      "courses": [ "Intermediate in Computer Science (ICS)"
+      "courses": [
       ]
     }
   ]
