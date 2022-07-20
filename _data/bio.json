@@ -1,0 +1,64 @@
+{
+  "basics": {
+    "name": "Muhammad Naeem",
+    "label": "Student",
+    "picture": "https://scontent.fskt2-1.fna.fbcdn.net/v/t39.30808-6/270182048_1365725593859164_798947228448591908_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHEsFPB_2rtJHDY-FmqIzbvJBQi2rl8VmEkFCLauXxWYc8_CbU5W1rN8kCv8dMeF1R6heJA8XoEvHlyI8NCKSHi&_nc_ohc=RnijyXvFtJ8AX_9aKo8&_nc_ht=scontent.fskt2-1.fna&oh=00_AT8xZtOizXAW-LdkyyHDZ8yqZuuwV5wVrsqaQ60KebtrQg&oe=62D98B4E",
+    "email": "m.naeem66622@outlook.com",
+    "phone": "+92-347-7921060",
+    "website": "https://m-naeem66622.github.io",
+    "summary": "Hey! I'm Computer Science student. Breaking Keyboard instead of Girl's Heart ❤. Started relationship with 'Bugs' at the age of 10. I will start studying soon for a B.S. in Computer Science in the Department of Information Technology and Computer Sciences.",
+    "location": { "address": "Near Post Office, Village Jallhan", "postalCode": "96822", "city": "District Gujranwala", "countryCode": "PAK", "region": "Punjab, Pakistan" },
+    "profiles": [
+      { "network": "github", "username": "m-naeem66622", "url": "http://github.com/m-naeem66622" },
+      { "network": "facebook", "username": "m.naeem66622", "url": "http://facebook.com/m.naeem66622" },
+      { "network": "twitter", "username": "m_naeem66622", "url": "http://twitter.com/m_naeem66622" },
+      { "network": "instagram", "username": "m.naeem66622", "url": "http://instagram.com/m.naeem66622" }
+    ]
+  },
+  "interests": [
+    { "name": "Frontend Development" },
+    { "name": "Cyber Security" },
+    { "name": "Artifical Intelligence" },
+    { "name": "Robotics" },
+    { "name": "VFX Graphics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "HTML", "CSS", "Javascript", "ReactJs", "Bootstrap", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Kali Linux", "Git/GitHub", "Adobe Photoshop","Adobe Illustrator", "Blender" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pakistan International Al-Khobar",
+      "area": "Pre-school to 8th",
+      "studyType": "Middle",
+      "startDate": "2008",
+      "endDate": "2016",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Allied Schools Hafizabad Campus",
+      "area": "Matriculation (9th to 10th)",
+      "studyType": "Matric",
+      "startDate": "2018",
+      "endDate": "2020",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Punjab Group of Colleges Hafizabad",
+      "area": "Intermediate in Computer Science (11th to 12th)",
+      "studyType": "I.C.S",
+      "startDate": "2021",
+      "endDate": "2022",
+      "courses": [
+      ]
+    }
+  ]
+}
