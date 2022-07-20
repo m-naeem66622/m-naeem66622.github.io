@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pgc-hfd/pgc-hfd-square.png
+image: img/pgc-hfd/pgc-hfd-square.jpg
 title: "Punjab Group of Colleges Hafizabad"
 date: 2021
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A responsive website as a practice project of Punjab Colleges Hafizabad"
 ---
 
-<img class="img-fluid" src="../img/pgc-hfd/">
+<img class="img-fluid" src="../img/pgc-hfd/pgc-hfd-home-page.jpg">
 
 This is a simple responsive website that I created as a practice project for Punjab Group of Colleges. The project helped me learn how to design and implement a responsive web site.
 
@@ -21,4 +21,4 @@ This website is made by 70.8% of HTML, 19.8% of CSS and 9.4% of 9.4% of JavaScri
 
 In this project I gained experience with Front-end web design and associated technologies, including HTML, CSS for the Design and JavaScript that puts special functionality in my Project.
 
-Here is link to my project. Have a Look : <a href="./pgc-hfd">Punjab Group of Coleges Hafizabad</a>
+Have a Look to my project : <a href="./pgc-hfd/index.html">Punjab Group of Coleges Hafizabad</a>
