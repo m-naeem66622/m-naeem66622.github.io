@@ -13,7 +13,7 @@ labels:
 summary: "A responsive website as a practice project of Punjab Colleges Hafizabad"
 ---
 
-<img class="img-fluid" src="../img/pgc-hfd/pgc-hfd-home-page.jpg">
+<img class="img-fluid" src="../img/pgc-hfd/pgc-hfd-home-page.png">
 
 This is a simple responsive website that I created as a practice project for Punjab Group of Colleges. The project helped me learn how to design and implement a responsive web site.
 
