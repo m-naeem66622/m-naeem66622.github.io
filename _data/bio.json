@@ -35,11 +35,20 @@
   ],
   "education": [
     {
-      "institution": "Pakistan International Al-Khobar, Saudi Arabia",
-      "area": "Pre-school to 8th",
-      "studyType": "Middle",
-      "startDate": "2008",
-      "endDate": "2017",
+      "institution": "University of Central Punjab, Lahore",
+      "area": "Associate Degree Program in Computer Science",
+      "studyType": "I.C.S",
+      "startDate": "2022",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Punjab Group of Colleges, Hafizabad",
+      "area": "Intermediate in Computer Science (11th to 12th)",
+      "studyType": "I.C.S",
+      "startDate": "2020",
+      "endDate": "2022",
       "courses": [
       ]
     },
@@ -53,20 +62,11 @@
       ]
     },
     {
-      "institution": "Punjab Group of Colleges, Hafizabad",
-      "area": "Intermediate in Computer Science (11th to 12th)",
-      "studyType": "I.C.S",
-      "startDate": "2021",
-      "endDate": "2022",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "University of Central Punjab, Lahore",
-      "area": "Associate Degree Program in Computer Science",
-      "studyType": "I.C.S",
-      "startDate": "2021",
-      "endDate": "2022",
+      "institution": "Pakistan International Al-Khobar, Saudi Arabia",
+      "area": "Pre-school to 8th",
+      "studyType": "Middle",
+      "startDate": "2008",
+      "endDate": "2017",
       "courses": [
       ]
     }
