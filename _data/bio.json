@@ -26,7 +26,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C/C++", "HTML", "CSS", "Javascript", "NodeJs", "ReactJs", "Bootstrap", "Python" ]
+      "keywords": [ "C/C++", "HTML", "CSS", "Javascript", "NodeJs", "ReactJs", "MongoDB", "Bootstrap", "Python" ]
     },
     {
       "name": "Toolsets/OS",
