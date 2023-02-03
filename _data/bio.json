@@ -18,10 +18,9 @@
   "interests": [
     { "name": "Frontend Development" },
     { "name": "Cyber Security" },
-    { "name": "Artifical Intelligence" },
+    { "name": "Machine Learning" },
     { "name": "Robotics" },
-    { "name": "Neural Networks" },
-    { "name": "Deep Learning" }
+    { "name": "Rest API"}
   ],
   "skills": [
     {
