@@ -15,7 +15,7 @@ summary: "A responsive website as a practice project for Hafizabad Grammar Schoo
 
 <img class="img-fluid" src="../img/hgs-hfd/hgs-hfd-home-page.png">
 
-This is a simple responsive website that I created as a practice project for Hafizabad Grammar School. The project helped me learn how to design and implement a responsive web site.
+This is a simple responsive website that I created as a practice project for Hafizabad Grammar School. This project helped me learn how to design and implement a responsive web site.
 
 This website is made by 51.1% of HTML, 43.0% of CSS and 5.9% of JavaScript. It took me only jsut 2 weeks to complete as it was my second project. It includes motive, goals and teaching method regarding to the students. Sports Gala, Naat Competition, Qirat Competition and many more religious and co-circullar activites by School.
 
