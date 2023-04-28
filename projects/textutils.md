@@ -10,7 +10,7 @@ labels:
   - GitHub
   - ReactJs
   - Bootstrap
-summary: "A responsive website as a practice project of Punjab Colleges Hafizabad"
+summary: "A basic website as a practice project of React.js"
 ---
 
 <img class="img-fluid" src="../img/textutils/textutils-home-page.png">
@@ -21,6 +21,4 @@ This website is made by 18.5% of HTML, 10.7% of CSS and 70.8% of JavaScript. It 
 
 In this project I gained experience with Front-end web design and associated technologies, includingNodeJs, ReactJs and Bootstrap. I learned to manage states alongwith Forms, lifting up sate, variety of hooks and many more.
 
-I apologize for a live demo of my project as React-Router not work with gh-pages (Github Pages).
-
-Have a Look to my project : <a href="https://github.com/m-naeem66622/textutils">Source Code</a>
+Have a Look to my project : <a href="https://m-naeem66622.github.io/textutils">Live Demo</a>&nbsp;|&nbsp;<a href="https://github.com/m-naeem66622/textutils">Source Code</a>
