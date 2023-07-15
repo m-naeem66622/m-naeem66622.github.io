@@ -22,4 +22,4 @@ This website is made by 26.8% of HTML, 29.7% of CSS and 43.5% of JavaScript. It 
 
 In this project I gained experience with JavaScript Methods and associated technologies, including HTML, CSS for the Design and FontAwsome that puts the beauty of special icons in my Project.
 
-Have a Look to my project : <a href="./notify/index.html">Live Demo</a>&nbsp;|&nbsp;<a href="https://github.com/m-naeem66622/notify-project">Source Code</a>
+Have a Look to my project : <a href="https://m-naeem66622.github.io/notify-project">Live Demo</a>&nbsp;|&nbsp;<a href="https://github.com/m-naeem66622/notify-project">Source Code</a>

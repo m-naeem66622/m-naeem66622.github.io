@@ -6,7 +6,7 @@
     "email": "m.naeem66622@outlook.com",
     "phone": "+92-347-7921060",
     "website": "https://m-naeem66622.github.io",
-    "summary": "Hey! I'm Computer Science student. Breaking Keyboard instead of Girl's Heart ❤. Started relationship with 'Bugs' at the age of 10. I am studying for a B.S in Computer Science in the Department of Information and Computer Sciences at the University of Central Punjab. I expect to graduate in Spring, 2026.",
+    "summary": "Hey! I'm Computer Science student. Breaking Keyboard instead of Girl's Heart ❤. Started relationship with 'Bugs' at the age of 10. Developer for the mean of Money? No dude, Passionate to be an Open Source Contributor.",
     "location": { "address": "Near Post Office, Village Jallhan", "postalCode": "96822", "city": "District Gujranwala", "countryCode": "PAK", "region": "Punjab, Pakistan" },
     "profiles": [
       { "network": "github", "username": "m-naeem66622", "url": "http://github.com/m-naeem66622" },
@@ -16,7 +16,7 @@
     ]
   },
   "interests": [
-    { "name": "Frontend Development" },
+    { "name": "Full Stack Development" },
     { "name": "Cyber Security" },
     { "name": "Machine Learning" },
     { "name": "Robotics" },
@@ -25,7 +25,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C/C++", "HTML", "CSS", "Javascript", "NodeJs", "ReactJs", "MongoDB", "Bootstrap", "Python" ]
+      "keywords": [ "C/C++", "HTML/CSS", "JavaScript", "NodeJs", "ReactJs", "Redux", "MongoDB", "Bootstrap", "Python" ]
     },
     {
       "name": "Toolsets/OS",
@@ -33,15 +33,6 @@
     }
   ],
   "education": [
-    {
-      "institution": "University of Central Punjab, Lahore",
-      "area": "Associate Degree Program in Computer Science",
-      "studyType": "ADP-CS",
-      "startDate": "2022",
-      "endDate": "Present",
-      "courses": [
-      ]
-    },
     {
       "institution": "Punjab Group of Colleges, Hafizabad",
       "area": "Intermediate in Computer Science (11th to 12th)",
