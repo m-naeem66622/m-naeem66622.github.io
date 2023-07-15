@@ -7,7 +7,7 @@
     "phone": "+92-347-7921060",
     "website": "https://m-naeem66622.github.io",
     "summary": "Hey! I'm Computer Science student. Breaking Keyboard instead of Girl's Heart ❤. Started relationship with 'Bugs' at the age of 10. Developer for the mean of Money? No dude, Passionate to be an Open Source Contributor.",
-    "location": { "address": "Near Post Office, Village Jallhan", "postalCode": "96822", "city": "District Gujranwala", "countryCode": "PAK", "region": "Punjab, Pakistan" },
+    "location": { "address": "Near Post Office, Village Jallhan", "postalCode": "52120", "city": "District Gujranwala", "countryCode": "PAK", "region": "Punjab, Pakistan" },
     "profiles": [
       { "network": "github", "username": "m-naeem66622", "url": "http://github.com/m-naeem66622" },
       { "network": "facebook", "username": "m.naeem66622", "url": "http://facebook.com/m.naeem66622" },
@@ -62,7 +62,15 @@
     }
   ],
   "work": [
-
+    {
+      "company": "Brackets Private Limited",
+      "position": "Mern Stack Developer",
+      "website": "https://bracketsltd.com/",
+      "startDate": "2023-07-10",
+      "endDate": "Present",
+      "summary": "Joined Brackets as Internee",
+      "highlights": []
+    }
   ],
   "volunteer": [
   ],
