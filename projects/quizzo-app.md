@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/quizzo-app/quizzo-app-square.png
 title: "Quizzo | Engaging Quiz App for Learning and Entertainment"
-date: "2023-03-05"
+date: "2023-08-15"
 published: true
 labels:
   - NodeJs
