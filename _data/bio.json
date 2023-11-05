@@ -20,12 +20,13 @@
     { "name": "Cyber Security" },
     { "name": "Machine Learning" },
     { "name": "Robotics" },
-    { "name": "Rest API"}
+    { "name": "Rest API"},
+    { "name": "Quantum Computing"}
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C/C++", "HTML/CSS", "JavaScript", "NodeJs", "ReactJs", "Redux", "MongoDB", "Bootstrap", "Python" ]
+      "keywords": [ "C/C++", "HTML/CSS", "JavaScript", "NodeJs", "ReactJs", "Redux Toolkit", "MongoDB", "Bootstrap", "Tailwindcss", "Python" ]
     },
     {
       "name": "Toolsets/OS",
@@ -33,6 +34,15 @@
     }
   ],
   "education": [
+    {
+      "institution": "University of Gujrat, Gujrat",
+      "area": "Bachelor of Science in Computer Science",
+      "studyType": "BSCS",
+      "startDate": "2023",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
     {
       "institution": "Punjab Group of Colleges, Hafizabad",
       "area": "Intermediate in Computer Science (11th to 12th)",
@@ -67,8 +77,8 @@
       "position": "Mern Stack Developer",
       "website": "https://bracketsltd.com/",
       "startDate": "2023-07-10",
-      "endDate": "Present",
-      "summary": "Joined Brackets as Internee",
+      "endDate": "2023-09-31",
+      "summary": "I worked as a Mern Stack Developer at Brackets Private Limited.",
       "highlights": []
     }
   ],
