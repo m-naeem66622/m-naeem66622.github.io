@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Muhammad Naeem",
+    "label": "MERN Stack Developer",
+    "picture": "https://github.com/m-naeem66622.png",
+    "email": "m.naeem66622@outlook.com",
+    "phone": "+92-347-7921060",
+    "website": "https://m-naeem66622.github.io",
+    "summary": "Hey! I'm Computer Science student. Breaking Keyboard instead of Girl's Heart ❤. Started relationship with 'Bugs' at the age of 10. Developer for the mean of Money? No dude, Passionate to be an Open Source Contributor.",
+    "location": { "address": "Near Post Office, Village Jallhan", "postalCode": "52120", "city": "District Gujranwala", "countryCode": "PAK", "region": "Punjab, Pakistan" },
+    "profiles": [
+      { "network": "github", "username": "m-naeem66622", "url": "http://github.com/m-naeem66622" },
+      { "network": "facebook", "username": "m.naeem66622", "url": "http://facebook.com/m.naeem66622" },
+      { "network": "twitter", "username": "m_naeem66622", "url": "http://twitter.com/m_naeem66622" },
+      { "network": "instagram", "username": "m.naeem66622", "url": "http://instagram.com/m.naeem66622" }
+    ]
+  },
+  "interests": [
+    { "name": "Full Stack Development" },
+    { "name": "Cyber Security" },
+    { "name": "Machine Learning" },
+    { "name": "Robotics" },
+    { "name": "Rest API"},
+    { "name": "Quantum Computing"}
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C/C++", "HTML/CSS", "JavaScript", "NodeJs", "ReactJs", "Redux Toolkit", "MongoDB", "Bootstrap", "Tailwindcss", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Kali Linux", "Git/GitHub", "Adobe Photoshop","Adobe Illustrator"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Gujrat, Gujrat",
+      "area": "Bachelor of Science in Computer Science",
+      "studyType": "BSCS",
+      "startDate": "2023",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Punjab Group of Colleges, Hafizabad",
+      "area": "Intermediate in Computer Science (11th to 12th)",
+      "studyType": "I.C.S",
+      "startDate": "2020",
+      "endDate": "2022",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Allied Schools, Hafizabad",
+      "area": "Matriculation (9th to 10th)",
+      "studyType": "Matric",
+      "startDate": "2018",
+      "endDate": "2020",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Pakistan International Al-Khobar, Saudi Arabia",
+      "area": "Pre-school to 8th",
+      "studyType": "Middle",
+      "startDate": "2008",
+      "endDate": "2017",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Brackets Private Limited",
+      "position": "Mern Stack Developer",
+      "website": "https://bracketsltd.com/",
+      "startDate": "2023-07-10",
+      "endDate": "2023-09-31",
+      "summary": "I worked as a Mern Stack Developer at Brackets Private Limited.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+  ],
+  "references": [
+  ]
+}
